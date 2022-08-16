@@ -12,7 +12,7 @@ function App() {
         <p className="text-white text-center">
           <small>
             By{" "}
-            <a href="https://https://www.instagram.com/ginoa.limo/">
+            <a href="https://www.instagram.com/ginoa.limo/" target={"_blank"}>
               Gino A. Limo
             </a>
             &copy; 2022
