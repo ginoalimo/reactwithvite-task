@@ -11,7 +11,7 @@ export const tasks = [
     },
     {
         id: 3,
-        title: 'Thrid task',
+        title: 'Third task',
         description: 'Third task description',
     },
 ]
